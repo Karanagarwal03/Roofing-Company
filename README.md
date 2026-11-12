@@ -18,19 +18,19 @@
 
 A Power BI report that analyses a roofing company's appointment funnel (**Appointment set → Confirmed → SIT → Sold**) across **11,741 cleaned appointments** (23 Oct 2024 – 15 Nov 2025). It shows where appointments drop off, how no-shows and booking lead time hurt results, and which setters, sales reps, offices and lead sources perform best.
 
-![KPI cards](images/kpi_cards.png)
+![KPI cards](https://raw.githubusercontent.com/Karanagarwal03/Roofing-Company/main/images/kpi_cards.png)
 
 ## 🔻 The Funnel
 
 Only about **1 in 17** appointments ends in a net sale. Most of the loss happens before the rep even arrives.
 
-![Appointment funnel](images/funnel.png)
+![Appointment funnel](https://raw.githubusercontent.com/Karanagarwal03/Roofing-Company/main/images/funnel.png)
 
 ## 🏢 Inside Sales vs Outreach
 
 Inside Sales brings volume and better confirmation. Outreach confirms less but closes better once the rep sits down.
 
-![Office comparison](images/office_comparison.png)
+![Office comparison](https://raw.githubusercontent.com/Karanagarwal03/Roofing-Company/main/images/office_comparison.png)
 
 > Charts above are drawn from the values shown in the report with no slicers applied. See the [Build Guide](docs/Report_Build_Guide.docx) for the exact figures behind each visual.
 
